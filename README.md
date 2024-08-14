@@ -1,6 +1,6 @@
 # Optimization and Numerical Analysis
 
-This repository contains practical works completed as part of the MDI210 "Optimisation et analyse numérique" course at Télécom Paris.
+This repository contains practical works completed as part of the "MDI210: Optimisation et analyse numérique" course at Télécom Paris.
 
 ## Course Overview
 
